@@ -5,3 +5,6 @@
 *.log
 *.sql
 *.sqlite
+
+/config.php
+/db.sql
