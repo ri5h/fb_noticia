@@ -26,7 +26,7 @@ require_once 'config.php';
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Smart Login Page</title>
+    <title>App Login Page</title>
 	<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -48,7 +48,7 @@ require_once 'config.php';
 		<?php require_once 'templates/ads.php';?>
 		<div class="login-form">
 			<?php require_once 'templates/message.php';?>
-			<h1 class="text-center">Smart Tutorials</h1>
+			<h1 class="text-center">App </h1>
 			<div class="form-header">
 				<i class="fa fa-user"></i>
 			</div>

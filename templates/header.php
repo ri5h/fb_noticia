@@ -14,7 +14,7 @@ if(!isset($_SESSION['logged_in'])){
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="rex">
-    <title>Smart Home Page</title>
+    <title>App Home Page</title>
 	<link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

@@ -16,7 +16,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Smart Forget Password Page</title>
+    <title>App Forget Password Page</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -34,7 +34,7 @@
 	<div class="container">
 		<?php require_once 'templates/ads.php';?>
 		<div class="login-form">
-			<h1 class="text-center">Smart Tutorials</h1>
+			<h1 class="text-center">App </h1>
 			<div class="form-header">
 				<i class="fa fa-user"></i>
 			</div>
