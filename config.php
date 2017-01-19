@@ -7,11 +7,10 @@
 require_once 'messages.php';
 
 //site specific configuration declartion
-define( 'BASE_PATH', 'http://localhost/user_login/');
-define( 'DB_HOST', 'localhost' );
-define( 'DB_USERNAME', 'root');
-define( 'DB_PASSWORD', '');
-define( 'DB_NAME', 'user_login');
+define( 'DB_HOST', 'ec2-54-145-224-234.compute-1.amazonaws.com' );
+define( 'DB_USERNAME', 'deploy');
+define( 'DB_PASSWORD', '5s8DBJTui3');
+define( 'DB_NAME', 'fb_noticia');
 
 function __autoload($class)
 {
